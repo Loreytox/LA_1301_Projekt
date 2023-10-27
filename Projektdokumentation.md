@@ -26,7 +26,7 @@ In diesem Projekt wollten wir eine Nutzwertanalyse erstellen, welche verschieden
 | 2    |  Muss               |  Funktional    | Als User möchte ich, verschiedene Kriterien hinzufügen können, damit ich sie danach bewerten und gewichten kann. |
 | 3    |  Muss               |  Funktional    | Als User möchte ich, verschiedene Gewichtungen zu den Kriterien geben, um so wichtige Kriterien hervorzuheben. |
 | 4    |  Muss               |  Funktional    | Als User möchte ich, dass das Programm die verschiedene Optionen und Kriterien, so wie die Gewichtung berücksichtigt und mir eine korrekte Berechnung zurückgibt. |
-| 5    |  Muss               |  Funktional    |  Als User möchte ich, die Optionen selber bewerten, um die beste Analyse zu erreichen.                                 |
+| 5    |  Muss               |  Funktional    |  Als User möchte ich, meine Optionen mit Kriterien selber bewerten, um die beste Analyse zu erreichen.                                 |
 | 6    |  Können             |  Qualität      |  Als User möchte ich, ein schönes und simples GUI verwenden können. |
 | 7    |  Können             |  Qualität      |  Als User möchte ich, dass die gewichtung nicht mehr verändert werden kann, nachdem man sie festgelegt hat. |
 
@@ -52,26 +52,25 @@ In diesem Projekt wollten wir eine Nutzwertanalyse erstellen, welche verschieden
 
 | AP-№ | Frist | Zuständig | Beschreibung | geplante Zeit |
 | ---- | ----- | --------- | ------------ | ------------- |
-| 1.A  |       |           |              |               |
-| 1.B  |       |           |              |               |
-| 1.A  |       |           |              |               |
-| 1.A  |       |           |              |               |
-| 1.A  |       |           |              |               |
-| 1.A  |       |           |              |               |
-| 1.A  |       |           |              |               |
-| 1.A  |       |           |              |               |
-| 1.A  |       |           |              |               |
-| 1.A  |       |           |              |               |
-| 1.A  |       |           |              |               |
-| 1.A  |       |           |              |               |
-| 1.A  |       |           |              |               |
-| 1.A  |       |           |              |               |
+| 1.A  |   22.09.23    |     Dorian/Marek      |      Informieren auf Stackoverflow        |       25'        |
+| 1.B  |   22.09.23    |    Dorian/Marek       |      Realisierung der Optionen/Objekten        |        45'       |
+| 1.C  |   22.09.23    |    Dorian       |     Implementierung des Features         |       15'        |
+| 2.A  |   22.09.23    |    Lorenzo/Marek       |      Informieren auf Stackoverflow         |       15'        |
+| 2.B  |   22.09.23    |    Lorenzo/Marek       |       Realisierung der Kriterien       |      45'         |
+| 2.C  |   22.09.23    |    Lorenzo       |       Implementierung des Features       |       15'        |
+| 3.A  |   29.09.23    |     Marek      |       Realisierung der Gewichtung       |       45'        |
+| 3.B  |   29.09.23    |     Marek      |      Implementierung des Features        |       15'        |
+| 4.A  |   29.09.23 / 27.10.23    |     Cyrill/Marek      |       Informieren aus verschiedenen Internet Quellen      |       35'        |
+| 4.B  |   29.09.23 / 27.10.23    |     Cyrill/Marek      |       Realisierung der Berechnung und Punktzahl       |       ~85'        |
+| 4.C  |   29.09.23 / 27.10.23    |     Cyrill      |       Implementierung des Features       |       35'        |
+| 5.A  |   27.10.23    |     Marek/Lorenzo      |       Realisierung der Bewertung       |       60'        |
+| 5.B  |   27.10.23    |     Marek       |       Implementierung des Features       |       35'        |
+| 6.A  |   22.09.23 / 03.10.23    |     Cyrill/Dorian/Marek/Lorenzo      |      Verbesserung des GUIs        |       ~1200'        |
+| 6.B  |   22.09.23 / 03.10.23    |     Cyrill/Dorian/Marek/Lorenzo      |      Richtige Implementierung        |       ~1200'        |
+| 7.A  |   27.10.23    |     Marek/Dorian      |       Realisierung des Fehlerbehebungs       |       45'        |
+| 7.B  |   27.10.23    |     Marek      |       Implementierung des Features       |       35'        |
 
-Total: 
-
-✍️ Die Nummer hat das Format `N.m`, wobei `N` die Nummer der User Story ist, auf die sich das Arbeitspaket bezieht, und `m` von `A` an nach oben buchstabiert. Beispiel: Das dritte Arbeitspaket, das die zweite User Story betrifft, hat also die Nummer `2.C`.
-
-✍️ Ein Arbeitspaket sollte etwa 45' für eine Person in Anspruch nehmen. Die totale Anzahl Arbeitspakete sollte etwa Folgendem entsprechen: `Anzahl R-Sitzungen` ╳ `Anzahl Gruppenmitglieder` ╳ `4`. Wenn Sie also zu dritt an einem Projekt arbeiten, für welches zwei R-Sitzungen geplant sind, sollten Sie auf `2` ╳ `3` ╳`4` = `24` Arbeitspakete kommen. Sollten Sie merken, dass Sie hier nicht genügend Arbeitspakte haben, denken Sie sich weitere "Kann"-User Stories für Kapitel 1.2 aus.
+Total: ~1200' - 1600'
 
 ## 3 Entscheiden
 
