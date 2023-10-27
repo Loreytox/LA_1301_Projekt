@@ -22,8 +22,16 @@ In diesem Projekt wollten wir eine Nutzwertanalyse erstellen, welche verschieden
 
 | US-№ | Verbindlichkeit | Typ  | Beschreibung                       |
 | ---- | --------------- | ---- | ---------------------------------- |
-| 1    |                 |      | Als ein 🤷‍♂️ möchte ich 🤷‍♂️, damit 🤷‍♂️ |
-| ...  |                 |      |                                    |
+| 1    |  Muss               |  Funktional    | Als User, möchte ich, verschiedene Optionen hinzufügen können, damit ich meine verschiedene Optionen vergleichen kann. |
+| 2    |  Muss               |  Funktional    | Als User, möchte ich, verschiedene Gewichtungen zu den Kriterien geben, um so wichtige Kriterien hervorzuheben. |
+| 3    |  Muss               |  Funktional    | Als User, möchte ich, dass das Programm die verschiedene Optionen und Kriterien, so wie die Gewichtung berücksichtigt und mir eine korrekte Berechnung zurückgibt. |
+| 4    |  Muss               |  Funktional    |  Als User, möchte ich, die Optionen selber zu bewerten, um die beste Analyse zu erreichen.                                 |
+| 5    |                 |      |                                    |
+| 6    |                 |      |                                    |
+| 7    |                 |      |                                    |
+| 8    |                 |      |                                    |
+| 9    |                 |      |                                    |
+
 
 ✍️ Jede User Story hat eine ganzzahlige Nummer (1, 2, 3 etc.), eine Verbindlichkeit (Muss oder Kann?), und einen Typ (Funktional, Qualität, Rand). Die User Story selber hat folgende Form: *Als ein 🤷‍♂️ möchte ich 🤷‍♂️, damit 🤷‍♂️*.
 
