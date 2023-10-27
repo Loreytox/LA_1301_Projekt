@@ -1,14 +1,14 @@
 # LA_1301_Projekt
 
-☝️ Alle Text-Stellen, welche mit einem ✍️ beginnen, können Sie löschen, sobald Sie die entsprechende Stellen ausgefüllt haben.
+Lorenzo Lai, Dorian Herzig, Cyrill Lutziger, Marek von Rogall
 
-✍️ Ihr Gruppenname und Ihre Nachnamen
+| Datum | Version | Zusammenfassung |
+| 15.09.2023 | 0.0.1   | Heute haben wir angefangen, an die Nutzwertanalyse zu programmieren, jedoch haben wir uns zuerst informiert, wie eine Nutzwertanalyse genau funktioniert und haben nochmals Windows Forms repetiert. |
+| 22.09.2023 | 0.0.2   | Heute haben wir tatsächlich mit dem programmieren angefangen und konnten schon ein paar Features einbauen. (z.B. Eingabe und Ausgabe + GUI)  |
+| 29.09.2023 | 0.0.3   | An diesem Tag konnten wir nicht so viel erledigen, da wir ein paar Knackpunkte getroffen haben. Wir konnten jedoch die GUI verbessern.) |   
+| 27.10.2023 | 0.1.0   | Wir konnten Heute den grössten Teil der Knackpunkte erledigen und ein paar Randfeatures implementieren. Der scheint zu funktionieren. |
+| 3.10.2023  | 1.0.0   | Wir haben das Projekt abgeschlossen. |
 
-| Datum | Version | Zusammenfassung                                              |
-| ----- | ------- | ------------------------------------------------------------ |
-| 15.09.2023 | 0.0.1   | ✍️ Jedes Mal, wenn Sie an dem Projekt arbeiten, fügen Sie hier eine neue Zeile ein und beschreiben in *einem* Satz, was Sie erreicht haben. |
-| 15.09.2023 | ...     |                                                              |
-|       | 1.0.0   |                                                              |
 
 ## 1 Informieren
 
