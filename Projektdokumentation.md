@@ -53,7 +53,19 @@ In diesem Projekt wollten wir eine Nutzwertanalyse erstellen, welche verschieden
 | AP-№ | Frist | Zuständig | Beschreibung | geplante Zeit |
 | ---- | ----- | --------- | ------------ | ------------- |
 | 1.A  |       |           |              |               |
-| ...  |       |           |              |               |
+| 1.B  |       |           |              |               |
+| 1.A  |       |           |              |               |
+| 1.A  |       |           |              |               |
+| 1.A  |       |           |              |               |
+| 1.A  |       |           |              |               |
+| 1.A  |       |           |              |               |
+| 1.A  |       |           |              |               |
+| 1.A  |       |           |              |               |
+| 1.A  |       |           |              |               |
+| 1.A  |       |           |              |               |
+| 1.A  |       |           |              |               |
+| 1.A  |       |           |              |               |
+| 1.A  |       |           |              |               |
 
 Total: 
 
