@@ -1,7 +1,6 @@
 # LA_1301_Projekt
 
 Lorenzo Lai, Dorian Herzig, Cyrill Lutziger, Marek von Rogall
-
 | Datum | Version | Zusammenfassung |
 | 15.09.2023 | 0.0.1   | Heute haben wir angefangen, an die Nutzwertanalyse zu programmieren, jedoch haben wir uns zuerst informiert, wie eine Nutzwertanalyse genau funktioniert und haben nochmals Windows Forms repetiert. |
 | 22.09.2023 | 0.0.2   | Heute haben wir tatsächlich mit dem programmieren angefangen und konnten schon ein paar Features einbauen. (z.B. Eingabe und Ausgabe + GUI)  |
