@@ -22,27 +22,27 @@ In diesem Projekt wollten wir eine Nutzwertanalyse erstellen, welche verschieden
 
 | US-№ | Verbindlichkeit | Typ  | Beschreibung                       |
 | ---- | --------------- | ---- | ---------------------------------- |
-| 1    |  Muss               |  Funktional    | Als User, möchte ich, verschiedene Optionen hinzufügen können, damit ich meine verschiedene Optionen vergleichen kann. |
-| 2    |  Muss               |  Funktional    | Als User, möchte ich, verschiedene Kriterien hinzufügen können, damit ich sie danach bewerten und gewichten kann. |
-| 3    |  Muss               |  Funktional    | Als User, möchte ich, verschiedene Gewichtungen zu den Kriterien geben, um so wichtige Kriterien hervorzuheben. |
-| 4    |  Muss               |  Funktional    | Als User, möchte ich, dass das Programm die verschiedene Optionen und Kriterien, so wie die Gewichtung berücksichtigt und mir eine korrekte Berechnung zurückgibt. |
-| 5    |  Muss               |  Funktional    |  Als User, möchte ich, die Optionen selber zu bewerten, um die beste Analyse zu erreichen.                                 |
-| 6    |  Können             |  Qualität      |  Als User, möchte ich, ein schönes und simples GUI verwenden können. |
-| 7    |  Können             |  Qualität      |  Als User, möchte ich, dass die gewichtung nicht mehr verändert werden kann, nachdem man sie festgelegt hat. |
-
-
-
-
-✍️ Jede User Story hat eine ganzzahlige Nummer (1, 2, 3 etc.), eine Verbindlichkeit (Muss oder Kann?), und einen Typ (Funktional, Qualität, Rand). Die User Story selber hat folgende Form: *Als ein 🤷‍♂️ möchte ich 🤷‍♂️, damit 🤷‍♂️*.
+| 1    |  Muss               |  Funktional    | Als User möchte ich, verschiedene Optionen hinzufügen können, damit ich meine verschiedene Optionen vergleichen kann. |
+| 2    |  Muss               |  Funktional    | Als User möchte ich, verschiedene Kriterien hinzufügen können, damit ich sie danach bewerten und gewichten kann. |
+| 3    |  Muss               |  Funktional    | Als User möchte ich, verschiedene Gewichtungen zu den Kriterien geben, um so wichtige Kriterien hervorzuheben. |
+| 4    |  Muss               |  Funktional    | Als User möchte ich, dass das Programm die verschiedene Optionen und Kriterien, so wie die Gewichtung berücksichtigt und mir eine korrekte Berechnung zurückgibt. |
+| 5    |  Muss               |  Funktional    |  Als User möchte ich, die Optionen selber bewerten, um die beste Analyse zu erreichen.                                 |
+| 6    |  Können             |  Qualität      |  Als User möchte ich, ein schönes und simples GUI verwenden können. |
+| 7    |  Können             |  Qualität      |  Als User möchte ich, dass die gewichtung nicht mehr verändert werden kann, nachdem man sie festgelegt hat. |
 
 ### 1.3 Testfälle
 
 | TC-№ | Ausgangslage | Eingabe | Erwartete Ausgabe |
 | ---- | ------------ | ------- | ----------------- |
-| 1.1  |              |         |                   |
-| ...  |              |         |                   |
-
-✍️ Die Nummer hat das Format `N.m`, wobei `N` die Nummer der User Story ist, die der Testfall abdeckt, und `m` von `1` an nach oben gezählt. Beispiel: Der dritte Testfall, der die zweite User Story abdeckt, hat also die Nummer `2.3`.
+| 1.1  | GUI: Objekte hinzufügen: |    Lidl    |         -          |
+| 1.2  | GUI: "Lidl"             |    "man drückt auf Hinzufügen"     |         "Lidl erscheint rechts im Fenster"          |
+| 2/3.1  | GUI: Kriterien hinzufügen:   |    Preis     |         -          |
+| 2/3.2  | GUI: "Gewichtung"            |    3     |        -           |
+| 2/3.3  | GUI: "Preis und 3"             |   "man drückt auf Hinzufügen"      |         "Preis (3) erscheint rechts im Fenster"           |
+| 4.1  |      "2. Fenster mit Tabelle"        |    "man drückt auf Auswerten"     |         "Kriterien und gewichtung werden berechnet und entschtet ein Punktzahlreihe." |
+| 5.1  |      "2. Fenster mit Tabelle"        |    3 "bei Kriterium Preis und Objekt/Option Lidl, wird 3 geschrieben"     |         -          |
+| 6.1  |      -       |    -     |         -          |
+| 7.1  |      "2. Fenster mit Tabelle"       |    "versucht Gewichtung zu ändern"     |        -        |
 
 ### 1.4 Diagramme
 
