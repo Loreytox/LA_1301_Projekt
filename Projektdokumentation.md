@@ -74,7 +74,7 @@ Total: ~1200' - 1600'
 
 ## 3 Entscheiden
 
-✍️ Dokumentieren Sie hier Ihre Entscheidungen und Annahmen, die Sie im Bezug auf Ihre User Stories und die Implementierung getroffen haben.
+Wir haben uns für diese User Stories etschieden, weil für den User und wir, am meisten Sinn machen. Als Beispiel nehmen wir die GUI: Die GUI wurde so gestaltet, sodass der User ohne Probleme unser Programm anwenden kann. Je weniger Zeit man braucht, um etwas zu verstehen, desto geringer die Möglichkeit von Fehlern wird. Die GUI so zu gestalten war jedoch keine einfache Sache. 
 
 ## 4 Realisieren
 
