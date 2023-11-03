@@ -52,14 +52,14 @@ In diesem Projekt wollten wir eine Nutzwertanalyse erstellen, welche verschieden
 
 | AP-№ | Frist | Zuständig | Beschreibung | geplante Zeit |
 | ---- | ----- | --------- | ------------ | ------------- |
-| 1.A  |   22.09.23    |     Dorian/Marek      |      Informieren auf Stackoverflow        |       25'        |
+| 1.A  |   22.09.23    |     Dorian      |      Informieren auf Stackoverflow        |       25'        |
 | 1.B  |   22.09.23    |    Dorian/Marek       |      Realisierung der Optionen/Objekten        |        45'       |
-| 1.C  |   22.09.23    |    Dorian       |     Implementierung des Features         |       15'        |
-| 2.A  |   22.09.23    |    Lorenzo/Marek       |      Informieren auf Stackoverflow         |       15'        |
+| 1.C  |   22.09.23    |    Marek       |     Implementierung des Features         |       15'        |
+| 2.A  |   22.09.23    |    Marek       |      Informieren auf Stackoverflow         |       15'        |
 | 2.B  |   22.09.23    |    Lorenzo/Marek       |       Realisierung der Kriterien       |      45'         |
-| 2.C  |   22.09.23    |    Lorenzo       |       Implementierung des Features       |       15'        |
-| 3.A  |   29.09.23    |     Marek      |       Realisierung der Gewichtung       |       45'        |
-| 3.B  |   29.09.23    |     Marek      |      Implementierung des Features        |       15'        |
+| 2.C  |   22.09.23    |    Lorenzo/Marek       |       Implementierung des Features       |       15'        |
+| 3.A  |   29.09.23    |     Marek/Cyrill      |       Realisierung der Gewichtung       |       45'        |
+| 3.B  |   29.09.23    |     Marek/Cyrill      |      Implementierung des Features        |       15'        |
 | 4.A  |   29.09.23 / 27.10.23    |     Cyrill/Marek      |       Informieren aus verschiedenen Internet Quellen      |       35'        |
 | 4.B  |   29.09.23 / 27.10.23    |     Cyrill/Marek      |       Realisierung der Berechnung und Punktzahl       |       ~85'        |
 | 4.C  |   29.09.23 / 27.10.23    |     Cyrill      |       Implementierung des Features       |       35'        |
@@ -67,8 +67,8 @@ In diesem Projekt wollten wir eine Nutzwertanalyse erstellen, welche verschieden
 | 5.B  |   27.10.23    |     Marek       |       Implementierung des Features       |       35'        |
 | 6.A  |   22.09.23 / 03.10.23    |     Cyrill/Dorian/Marek/Lorenzo      |      Verbesserung des GUIs        |       ~1200'        |
 | 6.B  |   22.09.23 / 03.10.23    |     Cyrill/Dorian/Marek/Lorenzo      |      Richtige Implementierung        |       ~1200'        |
-| 7.A  |   27.10.23    |     Marek/Dorian      |       Realisierung des Fehlerbehebungs       |       45'        |
-| 7.B  |   27.10.23    |     Marek      |       Implementierung des Features       |       35'        |
+| 7.A  |   27.10.23    |     Dorian      |       Realisierung des Fehlerbehebungs       |       45'        |
+| 7.B  |   27.10.23    |     Dorian      |       Implementierung des Features       |       35'        |
 
 Total: ~1200' - 1600'
 
@@ -80,10 +80,23 @@ Wir haben uns für diese User Stories etschieden, weil für den User und wir, am
 
 | AP-№ | Datum | Zuständig | geplante Zeit | tatsächliche Zeit |
 | ---- | ----- | --------- | ------------- | ----------------- |
-| 1.A  |       |           |               |                   |
-| ...  |       |           |               |                   |
-
-✍️ Tragen Sie jedes Mal, wenn Sie ein Arbeitspaket abschließen, hier ein, wie lang Sie effektiv dafür hatten.
+| 1.A  |  22.09.23     |  Dorian/Marek         |  25'             |  15'                 |
+| 1.B  |  22.09.23     |  Dorian/Marek         |  45'             |  35'                 |
+| 1.C  |  22.09.23     |  Dorian         |  15'             |  5'                 |
+| 2.A  |  22.09.23     |  Lorenzo/Marek         |  15'             |  15'                 |
+| 2.B  |  22.09.23     |  Lorenzo/Marek         |  45'             |  30-45'                 |
+| 2.C  |  22.09.23     |  Lorenzo         |  15'             |  15'                 |
+| 3.A  |  29.09.23     |  Marek         |  45'             |  60'                 |
+| 3.B  |  29.09.23     |  Marek         |  15'             |  15'                 |
+| 4.A  |  29.09.23 / 27.10.23     |  Cyrill/Marek         |  35'             |  45'                 |
+| 4.B  |  29.09.23 / 27.10.23     |  Cyrill/Marek         |  ~85'             |  120'                 |
+| 4.C  |  29.09.23 / 27.10.23     |  Cyrill         |  35'             |  35'                 |
+| 5.A  |  27.10.23     |  Marek/Lorenzo         |  60'             |  45'                 |
+| 5.B  |  27.10.23     |  Marek         |  35'             |  15'                 |
+| 6.A  |  22.09.23 / 03.10.23     |  Cyrill/Dorian/Marek/Lorenzo         |  ~1200'             |  ~1200'                 |
+| 6.B  |  22.09.23 / 03.10.23     |  Cyrill/Dorian/Marek/Lorenzo         |  ~1200'             |  ~1200'                 |
+| 7.A  |  27.10.23     |  Marek/Dorian         |  45'             |  55'                 |
+| 7.B  |  27.10.23     |  Marek         |  35'             |  25'                 |
 
 ## 5 Kontrollieren
 
