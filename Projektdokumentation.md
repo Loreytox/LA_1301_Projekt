@@ -16,7 +16,7 @@ Lorenzo Lai, Dorian Herzig, Cyrill Lutziger, Marek von Rogall
 
 Wir haben auf c# / WinForms eine Nutzwertanalyse kreiert.
 
-In diesem Projekt wollten wir eine Nutzwertanalyse erstellen, welche verschiedene Entscheidungen zusammen führt und vergleicht. Wir haben uns für WinForms entschieden, da man eine einfache und "simple" GUI erstellen kann. Dieses Projekt sollte als hilfe für Personen oder Unternehmen sein, welche verschiedene Optionen oder Entscheidungen treffen wollen, um das betse resultat zu erzielen.
+In diesem Projekt wollten wir eine Nutzwertanalyse erstellen, die verschiedene Entscheidungen zusammenführt und vergleicht. Wir haben uns für WinForms entschieden, da man damit eine einfache und benutzerfreundliche GUI erstellen kann. Dieses Projekt sollte als Hilfe für Personen oder Unternehmen dienen, die verschiedene Optionen oder Entscheidungen abwägen wollen, um das beste Ergebnis zu erzielen.
 
 ### 1.2 User Stories
 
@@ -74,7 +74,7 @@ Total: ~1200' - 1600'
 
 ## 3 Entscheiden
 
-Wir haben uns für diese User Stories etschieden, weil für den User und wir, am meisten Sinn machen. Als Beispiel nehmen wir die GUI: Die GUI wurde so gestaltet, sodass der User ohne Probleme unser Programm anwenden kann. Je weniger Zeit man braucht, um etwas zu verstehen, desto geringer die Möglichkeit von Fehlern wird. Die GUI so zu gestalten war jedoch keine einfache Sache. 
+Wir haben uns für diese User Stories entschieden, weil sie sowohl für den Benutzer als auch für uns am sinnvollsten sind. Als Beispiel nehmen wir die GUI: Diese wurde so gestaltet, dass der Benutzer unser Programm problemlos verwenden kann. Je weniger Zeit man benötigt, um etwas zu verstehen, desto geringer wird die Wahrscheinlichkeit von Fehlern. Die Gestaltung der GUI war jedoch keine einfache Aufgabe.
 
 ## 4 Realisieren
 
@@ -119,7 +119,7 @@ Alles funktioniert und ist erfolgreich implementiert worden.
 ## 6 Auswerten
 
 Was lief gut in unserem Projekt?
-Wir wurden schon ziemlich früh mit unserem Projekt fertig und konnten uns auf andere Themen konzentrieren und vertiefen. 
+Wir konnten alles ziemlich schnell und nach Plan erledigen. Es gab ein paar Schwierigkeiten mit WinForms, aber wir haben es trotzdem geschafft. Was ziemlich gut lief, war die Zusammenarbeit und die Kommunikation.
 
 Was lief nicht gut in unserem Projekt?
 Wir konnten unser Projekt ohne jeglichen Problemen abschliessen. 
