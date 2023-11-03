@@ -123,5 +123,3 @@ Wir konnten alles ziemlich schnell und nach Plan erledigen. Es gab ein paar Schw
 
 Was lief nicht gut in unserem Projekt?
 Wir konnten unser Projekt ohne jeglichen Problemen abschliessen. 
-
-✍️ Fügen Sie hier eine Verknüpfung zu Ihrem Lern-Bericht ein.
