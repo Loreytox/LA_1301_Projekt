@@ -46,7 +46,7 @@ In diesem Projekt wollten wir eine Nutzwertanalyse erstellen, welche verschieden
 
 ### 1.4 Diagramme
 
-✍️Fügen Sie hier ein Use Case-Diagramm mit mindestens 10 Anwendungsfällen ein; und einen PAP.
+![Nutzwerkanalyse](https://github.com/Loreytox/LA_1301_Projekt/assets/110893594/1923c2bb-1d34-49dd-aee6-b45c68de30d2)
 
 ## 2 Planen
 
