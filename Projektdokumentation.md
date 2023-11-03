@@ -118,4 +118,10 @@ Alles funktioniert und ist erfolgreich implementiert worden.
 
 ## 6 Auswerten
 
+Was lief gut in unserem Projekt?
+Wir wurden schon ziemlich früh mit unserem Projekt fertig und konnten uns auf andere Themen konzentrieren und vertiefen. 
+
+Was lief nicht gut in unserem Projekt?
+Wir konnten unser Projekt ohne jeglichen Problemen abschliessen. 
+
 ✍️ Fügen Sie hier eine Verknüpfung zu Ihrem Lern-Bericht ein.
