@@ -104,19 +104,17 @@ Wir haben uns für diese User Stories etschieden, weil für den User und wir, am
 
 | TC-№ | Datum | Resultat | Tester |
 | ---- | ----- | -------- | ------ |
-| 1.1  |       |          |        |
-| ...  |       |          |        |
+| 1.1  |  03.10.23     |  OK        |  Lorenzo      |
+| 1.2  |  03.10.23     |  OK        |  Lorenzo      |
+| 2/3.1  |  03.10.23 / 27.10.23     |  OK        |  Marek/Lorenzo      |
+| 2/3.2  |  03.10.23 / 27.10.23    |  OK        |  Marek      |
+| 2/3.3  |  03.10.23 / 27.10.23    |  OK        |  Cyrill      |
+| 4.1  |  03.10.23 / 27.10.23     |  OK        |  Cyrill      |
+| 5.1  |  27.10.23     |  OK        | Dorian/Marek       |
+| 6.1  |  27.10.23     |  OK        | Dorian/Marek/Lorenzo/Cyrill       |
+| 7.1  |  27.10.23     |  OK        | Dorian       |
 
-✍️ Vergessen Sie nicht, ein Fazit hinzuzufügen, welches das Test-Ergebnis einordnet.
-
-### 5.2 Exploratives Testen
-
-| BR-№ | Ausgangslage | Eingabe | Erwartete Ausgabe | Tatsächliche Ausgabe |
-| ---- | ------------ | ------- | ----------------- | -------------------- |
-| I    |              |         |                   |                      |
-| ...  |              |         |                   |                      |
-
-✍️ Verwenden Sie römische Ziffern für Ihre Bug Reports, also I, II, III, IV etc.
+Alles funktioniert und ist erfolgreich implementiert worden.
 
 ## 6 Auswerten
 
