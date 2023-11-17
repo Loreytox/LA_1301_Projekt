@@ -1,0 +1,22 @@
+C:\Users\mvryt\source\repos\Nutzwertanalyse\bin\Debug\Nutzwertanalyse.exe.config
+C:\Users\mvryt\source\repos\Nutzwertanalyse\bin\Debug\Nutzwertanalyse.exe
+C:\Users\mvryt\source\repos\Nutzwertanalyse\bin\Debug\Nutzwertanalyse.pdb
+C:\Users\mvryt\source\repos\Nutzwertanalyse\obj\Debug\Nutzwertanalyse.csproj.AssemblyReference.cache
+C:\Users\mvryt\source\repos\Nutzwertanalyse\obj\Debug\Nutzwertanalyse.csproj.SuggestedBindingRedirects.cache
+C:\Users\mvryt\source\repos\Nutzwertanalyse\obj\Debug\Nutzwertanalyse.Form1.resources
+C:\Users\mvryt\source\repos\Nutzwertanalyse\obj\Debug\Nutzwertanalyse.Properties.Resources.resources
+C:\Users\mvryt\source\repos\Nutzwertanalyse\obj\Debug\Nutzwertanalyse.csproj.GenerateResource.cache
+C:\Users\mvryt\source\repos\Nutzwertanalyse\obj\Debug\Nutzwertanalyse.csproj.CoreCompileInputs.cache
+C:\Users\mvryt\source\repos\Nutzwertanalyse\obj\Debug\Nutzwertanalyse.exe
+C:\Users\mvryt\source\repos\Nutzwertanalyse\obj\Debug\Nutzwertanalyse.pdb
+C:\Users\Marek von Rogall\Downloads\Nutzwertanalyse\bin\Debug\Nutzwertanalyse.exe.config
+C:\Users\Marek von Rogall\Downloads\Nutzwertanalyse\bin\Debug\Nutzwertanalyse.exe
+C:\Users\Marek von Rogall\Downloads\Nutzwertanalyse\bin\Debug\Nutzwertanalyse.pdb
+C:\Users\Marek von Rogall\Downloads\Nutzwertanalyse\obj\Debug\Nutzwertanalyse.csproj.AssemblyReference.cache
+C:\Users\Marek von Rogall\Downloads\Nutzwertanalyse\obj\Debug\Nutzwertanalyse.csproj.SuggestedBindingRedirects.cache
+C:\Users\Marek von Rogall\Downloads\Nutzwertanalyse\obj\Debug\Nutzwertanalyse.Form1.resources
+C:\Users\Marek von Rogall\Downloads\Nutzwertanalyse\obj\Debug\Nutzwertanalyse.Properties.Resources.resources
+C:\Users\Marek von Rogall\Downloads\Nutzwertanalyse\obj\Debug\Nutzwertanalyse.csproj.GenerateResource.cache
+C:\Users\Marek von Rogall\Downloads\Nutzwertanalyse\obj\Debug\Nutzwertanalyse.csproj.CoreCompileInputs.cache
+C:\Users\Marek von Rogall\Downloads\Nutzwertanalyse\obj\Debug\Nutzwertanalyse.exe
+C:\Users\Marek von Rogall\Downloads\Nutzwertanalyse\obj\Debug\Nutzwertanalyse.pdb
