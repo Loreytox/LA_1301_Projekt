@@ -58,15 +58,15 @@ In diesem Projekt wollten wir eine Nutzwertanalyse erstellen, die verschiedene E
 | 2.A  |   22.09.23    |    Marek       |      Informieren auf Stackoverflow         |       15'        |
 | 2.B  |   22.09.23    |    Lorenzo/Marek       |       Realisierung der Kriterien       |      45'         |
 | 2.C  |   22.09.23    |    Lorenzo/Marek       |       Implementierung des Features       |       15'        |
-| 3.A  |   29.09.23    |     Marek/Cyrill      |       Realisierung der Gewichtung       |       45'        |
-| 3.B  |   29.09.23    |     Marek/Cyrill      |      Implementierung des Features        |       15'        |
-| 4.A  |   29.09.23 / 27.10.23    |     Cyrill/Marek      |       Informieren aus verschiedenen Internet Quellen      |       35'        |
-| 4.B  |   29.09.23 / 27.10.23    |     Cyrill/Marek      |       Realisierung der Berechnung und Punktzahl       |       ~85'        |
-| 4.C  |   29.09.23 / 27.10.23    |     Cyrill      |       Implementierung des Features       |       35'        |
+| 3.A  |   29.09.23    |     Marek/Cyril      |       Realisierung der Gewichtung       |       45'        |
+| 3.B  |   29.09.23    |     Marek/Cyril      |      Implementierung des Features        |       15'        |
+| 4.A  |   29.09.23 / 27.10.23    |     Cyril/Marek      |       Informieren aus verschiedenen Internet Quellen      |       35'        |
+| 4.B  |   29.09.23 / 27.10.23    |     Cyril/Marek      |       Realisierung der Berechnung und Punktzahl       |       ~85'        |
+| 4.C  |   29.09.23 / 27.10.23    |     Cyril      |       Implementierung des Features       |       35'        |
 | 5.A  |   27.10.23    |     Marek/Lorenzo      |       Realisierung der Bewertung       |       60'        |
 | 5.B  |   27.10.23    |     Marek       |       Implementierung des Features       |       35'        |
-| 6.A  |   22.09.23 / 03.10.23    |     Cyrill/Dorian/Marek/Lorenzo      |      Verbesserung des GUIs        |       ~1200'        |
-| 6.B  |   22.09.23 / 03.10.23    |     Cyrill/Dorian/Marek/Lorenzo      |      Richtige Implementierung        |       ~1200'        |
+| 6.A  |   22.09.23 / 03.10.23    |     Cyril/Dorian/Marek/Lorenzo      |      Verbesserung des GUIs        |       ~1200'        |
+| 6.B  |   22.09.23 / 03.10.23    |     Cyril/Dorian/Marek/Lorenzo      |      Richtige Implementierung        |       ~1200'        |
 | 7.A  |   27.10.23    |     Dorian      |       Realisierung des Fehlerbehebungs       |       45'        |
 | 7.B  |   27.10.23    |     Dorian      |       Implementierung des Features       |       35'        |
 
@@ -88,13 +88,13 @@ Wir haben uns für diese User Stories entschieden, weil sie sowohl für den Benu
 | 2.C  |  22.09.23     |  Lorenzo         |  15'             |  15'                 |
 | 3.A  |  29.09.23     |  Marek         |  45'             |  60'                 |
 | 3.B  |  29.09.23     |  Marek         |  15'             |  15'                 |
-| 4.A  |  29.09.23 / 27.10.23     |  Cyrill/Marek         |  35'             |  45'                 |
-| 4.B  |  29.09.23 / 27.10.23     |  Cyrill/Marek         |  ~85'             |  120'                 |
-| 4.C  |  29.09.23 / 27.10.23     |  Cyrill         |  35'             |  35'                 |
+| 4.A  |  29.09.23 / 27.10.23     |  Cyril/Marek         |  35'             |  45'                 |
+| 4.B  |  29.09.23 / 27.10.23     |  Cyril/Marek         |  ~85'             |  120'                 |
+| 4.C  |  29.09.23 / 27.10.23     |  Cyril         |  35'             |  35'                 |
 | 5.A  |  27.10.23     |  Marek/Lorenzo         |  60'             |  45'                 |
 | 5.B  |  27.10.23     |  Marek         |  35'             |  15'                 |
-| 6.A  |  22.09.23 / 03.10.23     |  Cyrill/Dorian/Marek/Lorenzo         |  ~1200'             |  ~1200'                 |
-| 6.B  |  22.09.23 / 03.10.23     |  Cyrill/Dorian/Marek/Lorenzo         |  ~1200'             |  ~1200'                 |
+| 6.A  |  22.09.23 / 03.10.23     |  Cyril/Dorian/Marek/Lorenzo         |  ~1200'             |  ~1200'                 |
+| 6.B  |  22.09.23 / 03.10.23     |  Cyril/Dorian/Marek/Lorenzo         |  ~1200'             |  ~1200'                 |
 | 7.A  |  27.10.23     |  Marek/Dorian         |  45'             |  55'                 |
 | 7.B  |  27.10.23     |  Marek         |  35'             |  25'                 |
 
@@ -108,10 +108,10 @@ Wir haben uns für diese User Stories entschieden, weil sie sowohl für den Benu
 | 1.2  |  03.10.23     |  OK        |  Lorenzo      |
 | 2/3.1  |  03.10.23 / 27.10.23     |  OK        |  Marek/Lorenzo      |
 | 2/3.2  |  03.10.23 / 27.10.23    |  OK        |  Marek      |
-| 2/3.3  |  03.10.23 / 27.10.23    |  OK        |  Cyrill      |
-| 4.1  |  03.10.23 / 27.10.23     |  OK        |  Cyrill      |
+| 2/3.3  |  03.10.23 / 27.10.23    |  OK        |  Cyril      |
+| 4.1  |  03.10.23 / 27.10.23     |  OK        |  Cyril      |
 | 5.1  |  27.10.23     |  OK        | Dorian/Marek       |
-| 6.1  |  27.10.23     |  OK        | Dorian/Marek/Lorenzo/Cyrill       |
+| 6.1  |  27.10.23     |  OK        | Dorian/Marek/Lorenzo/Cyril       |
 | 7.1  |  27.10.23     |  OK        | Dorian       |
 
 Alles funktioniert und ist erfolgreich implementiert worden.
