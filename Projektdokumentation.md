@@ -46,7 +46,8 @@ In diesem Projekt wollten wir eine Nutzwertanalyse erstellen, die verschiedene E
 
 ### 1.4 Diagramme
 
-![Nutzwerkanalyse](https://github.com/Loreytox/LA_1301_Projekt/assets/110893594/1923c2bb-1d34-49dd-aee6-b45c68de30d2)
+![Nutzwertanalyse](https://github.com/Loreytox/LA_1301_Projekt/assets/110893394/9afd2ee3-5eea-4c90-92dc-8fc0b62350d9)
+
 
 ## 2 Planen
 
