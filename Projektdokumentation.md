@@ -1,6 +1,6 @@
 # LA_1301_Projekt
 
-Lorenzo Lai, Dorian Herzig, Cyrill Lutziger, Marek von Rogall
+Lorenzo Lai, Dorian Herzig, Cyril Lutziger, Marek von Rogall
 
 | Datum | Version | Zusammenfassung |
 | ---- | --------------- | ---- |
